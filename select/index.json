@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Raise Up",
+  "base_artist": "m.o.v.e",
+  "createdAt": "2025-12-05T18:18:11.849224Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Raise Up",
+      "artist": "Kindness",
+      "has_synced": false,
+      "path": "select/01_Raise_Up_Kindness.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Raise Up",
+      "artist": "Pixie Lott",
+      "has_synced": true,
+      "path": "select/02_Raise_Up_Pixie_Lott.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Raise Up",
+      "artist": "Saliva",
+      "has_synced": false,
+      "path": "select/03_Raise_Up_Saliva.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Raise Up",
+      "artist": "Saliva",
+      "has_synced": true,
+      "path": "select/04_Raise_Up_Saliva.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Raise Up - All Cities Remix",
+      "artist": "Petey Pablo",
+      "has_synced": false,
+      "path": "select/05_Raise_Up_-_All_Cities_Remix_Petey_Pablo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Raise up the Lights (2018 All - Star Event)",
+      "artist": "League of Legends feat. The Seige",
+      "has_synced": true,
+      "path": "select/06_Raise_up_the_Lights_(2018_All_-_Star_Event)_League_of_Legends_feat._The_Seige.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Raise Up The Lights (2018 All-Star Event)",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/07_Raise_Up_The_Lights_(2018_All-Star_Event)_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Raise Up",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/08_Raise_Up_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Raise Up The Lights (2018 All-Star Event)",
+      "artist": "League of Legends; The Seige",
+      "has_synced": true,
+      "path": "select/09_Raise_Up_The_Lights_(2018_All-Star_Event)_League_of_Legends;_The_Seige.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Raise Up The Flag",
+      "artist": "Kwon Jin Ah",
+      "has_synced": true,
+      "path": "select/10_Raise_Up_The_Flag_Kwon_Jin_Ah.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Raise Up",
+      "artist": "Ledisi",
+      "has_synced": true,
+      "path": "select/11_Raise_Up_Ledisi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Raise Up",
+      "artist": "Geto Boys",
+      "has_synced": false,
+      "path": "select/12_Raise_Up_Geto_Boys.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Raise Up the Crown",
+      "artist": "Chris Tomlin",
+      "has_synced": false,
+      "path": "select/13_Raise_Up_the_Crown_Chris_Tomlin.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Raise Up the Crown (All Hail the Power of Jesus' Name)",
+      "artist": "Chris Tomlin",
+      "has_synced": false,
+      "path": "select/14_Raise_Up_the_Crown_(All_Hail_the_Power_of_Jesus'_Name)_Chris_Tomlin.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Unchanging (Raise Up Holy Hands) - Live",
+      "artist": "Chris Tomlin",
+      "has_synced": true,
+      "path": "select/15_Unchanging_(Raise_Up_Holy_Hands)_-_Live_Chris_Tomlin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Unchanging (Raise Up Holy Hands)",
+      "artist": "Chris Tomlin",
+      "has_synced": true,
+      "path": "select/16_Unchanging_(Raise_Up_Holy_Hands)_Chris_Tomlin.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Raise Up",
+      "artist": "Mint Condition",
+      "has_synced": true,
+      "path": "select/17_Raise_Up_Mint_Condition.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Raise Up",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/pl_01_Raise_Up_m.o.v.e.txt"
+    }
+  ]
+}
